@@ -1,0 +1,13 @@
+<svg width="63" height="125" viewBox="0 0 63 125">
+  <g id="switch-icon" transform="translate(-229 -709)">
+    <g id="Group_10796" data-name="Group 10796">
+      <g id="Group_10797" data-name="Group 10797">
+        <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(229 709)" fill="none" stroke="#1f2e6c" stroke-linejoin="round" stroke-width="6">
+          <rect width="63" height="125" rx="31.5" stroke="none"/>
+          <rect x="3" y="3" width="57" height="119" rx="28.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="21" cy="21" r="21" transform="translate(240 726)" fill="#1f2e6c"/>
+  </g>
+</svg>

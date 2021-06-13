@@ -1,0 +1,14 @@
+<svg width="694" height="696" viewBox="0 0 694 696">
+  <g id="hero-image" transform="translate(-970 -204)">
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="174" height="174" rx="28" transform="translate(1144 378)" fill="#fff"/>
+    <rect id="Rectangle_11" data-name="Rectangle 11" width="174" height="174" rx="28" transform="translate(1144 726)" fill="#fff"/>
+    <rect id="Rectangle_9" data-name="Rectangle 9" width="174" height="174" rx="28" transform="translate(1317 204)" fill="rgba(216,216,255,0.92)"/>
+    <rect id="Rectangle_12" data-name="Rectangle 12" width="174" height="174" rx="28" transform="translate(1490 378)" fill="#fff4f0"/>
+    <rect id="Rectangle_13" data-name="Rectangle 13" width="174" height="174" rx="28" transform="translate(970 552)" fill="#fff4f0"/>
+    <rect id="Rectangle_10" data-name="Rectangle 10" width="174" height="174" rx="28" transform="translate(1317 552)" fill="rgba(216,216,255,0.92)"/>
+    <g id="Component_5_1" data-name="Component 5 – 1" transform="translate(1333 393)">
+      <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="71.5" cy="72" rx="71.5" ry="72" fill="#434372"/>
+    </g>
+    <ellipse id="Ellipse_4" data-name="Ellipse 4" cx="71.5" cy="72" rx="71.5" ry="72" transform="translate(1160 565)" fill="#b3b8f5"/>
+  </g>
+</svg>

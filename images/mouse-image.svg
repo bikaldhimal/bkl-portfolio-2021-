@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="132.071" height="123.33" viewBox="0 0 132.071 123.33">
+  <g id="mouse-image" transform="translate(-373.929 -1961)">
+    <path id="Path_116" data-name="Path 116" d="M304.586,2115.374l19,18.841v38.159l80.6-57Z" transform="translate(75.414 -92.874)" fill="none" stroke="#397ef3" stroke-width="5"/>
+    <line id="Line_315" data-name="Line 315" x1="15" y2="79" transform="translate(480 1977)" fill="none" stroke="#707070" stroke-width="1"/>
+    <g id="Ellipse_272" data-name="Ellipse 272" transform="translate(470 2049)" fill="#fff" stroke="#707070" stroke-width="1">
+      <circle cx="9" cy="9" r="9" stroke="none"/>
+      <circle cx="9" cy="9" r="8.5" fill="none"/>
+    </g>
+    <g id="Ellipse_273" data-name="Ellipse 273" transform="translate(488 1961)" fill="#fff" stroke="#707070" stroke-width="1">
+      <circle cx="9" cy="9" r="9" stroke="none"/>
+      <circle cx="9" cy="9" r="8.5" fill="none"/>
+    </g>
+  </g>
+</svg>
